@@ -1,16 +1,85 @@
-## Hi there 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Савелий&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&width=100%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,100:e9ecef&height=200&section=header&text=Савелий&fontSize=70&fontColor=333333&animation=fadeIn&fontAlignY=35&width=100%" />
+    <img alt="Header Banner" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Савелий&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  </picture>
+</div>
 
-<!--
-**TsSilllver/TsSilllver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Начинающий Fullstack-разработчик (C# / ASP.NET Core, React)</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Имею практический опыт создания веб-приложений, проектирования баз данных и деплоя в облачные сервисы (Render, InfinityFree).<br>
+  Активно использую AI-инструменты (Claude, GigaChat) для ускорения разработки, интеграции API и автоматизации процессов.<br>
+  Быстро обучаюсь, нацелен на написание чистого кода и доведение задач до работающего результата.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Стек технологий
+
+<div align="center">
+  <!-- КРАСИВЫЕ ЗАКРУГЛЕННЫЕ ИКОНКИ -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,postgres,mysql,php,docker,git&theme=dark" />
+</div>
+
+---
+
+### Флагманский проект: Argumentum
+
+**Argumentum** — это интеллектуальный тренажёр для подготовки к собеседованиям, защитам проектов и экзаменам. Приложение использует нейросеть (GigaChat API), которая играет роль строгого HR-специалиста, преподавателя или оппонента, ведёт с пользователем диалог и оценивает его ответы по ходу сессии.
+
+**Что реализовано:**
+- Динамический промпт-инжиниринг: жесткий контроль количества вопросов и ролей.
+- Безопасность: ключи API скрыты на серверном PHP-прокси.
+- Деплой: настроен Docker-контейнер и автоматический деплой на облачную платформу Render.
+- UX/UI: адаптивный интерфейс с темной темой, выезжающим меню на мобильных и фиксированным хедером.
+
+
+[Главный экран Argumentum](Screen1.png)
+[Процесс собеседования](Screen2.png)
+[Итог собеседования](Screen3.png)
+
+
+<br>
+
+**Стек проекта:** React, PHP, GigaChat API, Docker, Render. <br>
+[Посмотреть репозиторий](https://github.com/TsSilllver/AiProject)
+
+---
+
+### Другие проекты
+
+| Проект | Описание | Стек |
+| :--- | :--- | :--- |
+|  |  |  |
+
+---
+
+### Статистика GitHub
+
+*Примечание: карточки появятся после коммита на реальной странице профиля.*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TsSilllver&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TsSilllver&show_icons=true&theme=default&hide_border=true&bg_color=f8f9fa&title_color=333333&text_color=666666&icon_color=333333" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TsSilllver&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff" />
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TsSilllver&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TsSilllver&layout=compact&theme=default&hide_border=true&bg_color=f8f9fa&title_color=333333&text_color=666666" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsSilllver&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://mail.ru/" target="_blank">
+    <img src="https://img.shields.io/badge/Написать_на_Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail.ru" />
+  </a>
+</div>
