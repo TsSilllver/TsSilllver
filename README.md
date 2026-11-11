@@ -10,7 +10,7 @@
 
 <p align="center">
   Имею практический опыт создания веб-приложений, проектирования баз данных и деплоя в облачные сервисы (Render, InfinityFree).<br>
-  Активно использую AI-инструменты (Claude, GigaChat) для ускорения разработки, интеграции API и автоматизации процессов.<br>
+  Активно использую AI-инструменты для ускорения разработки, интеграции API и автоматизации процессов.<br>
   Быстро обучаюсь, нацелен на написание чистого кода и доведение задач до работающего результата.
 </p>
 
@@ -29,6 +29,8 @@
 
 **Argumentum** — это интеллектуальный тренажёр для подготовки к собеседованиям, защитам проектов и экзаменам. Приложение использует нейросеть (GigaChat API), которая играет роль строгого HR-специалиста, преподавателя или оппонента, ведёт с пользователем диалог и оценивает его ответы по ходу сессии.
 
+![Главный экран Argumentum](Screen1.png)
+
 **Что реализовано:**
 - Динамический промпт-инжиниринг: жесткий контроль количества вопросов и ролей.
 - Безопасность: ключи API скрыты на серверном PHP-прокси.
@@ -36,9 +38,7 @@
 - UX/UI: адаптивный интерфейс с темной темой, выезжающим меню на мобильных и фиксированным хедером.
 
 
-[Главный экран Argumentum](Screen1.png)
-[Процесс собеседования](Screen2.png)
-[Итог собеседования](Screen3.png)
+![Процесс собеседования](Screen2.png)
 
 
 <br>
@@ -58,7 +58,14 @@
 
 ### Статистика GitHub
 
-*Примечание: карточки появятся после коммита на реальной странице профиля.*
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TsSilllver&bg_color=0f0f0f&color=ffffff&line=ffffff&point=a0a0a0&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TsSilllver&bg_color=f8f9fa&color=333333&line=333333&point=666666&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TsSilllver&bg_color=0f0f0f&color=ffffff&line=ffffff&point=a0a0a0&area=true&hide_border=true" />
+  </picture>
+</div>
+
 
 <div align="center">
   <picture>
