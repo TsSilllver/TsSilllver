@@ -58,36 +58,19 @@
 
 ### Статистика GitHub
 
-<div align="center">
-  <!-- График активности (он работает стабильнее) -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TsSilllver&bg_color=0f0f0f&color=ffffff&line=ffffff&point=a0a0a0&area=true&hide_border=true&v=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TsSilllver&bg_color=f8f9fa&color=333333&line=333333&point=666666&area=true&hide_border=true&v=1" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TsSilllver&bg_color=0f0f0f&color=ffffff&line=ffffff&point=a0a0a0&area=true&hide_border=true&v=1" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TsSilllver&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=TsSilllver&show_icons=true&theme=default&hide_border=true&bg_color=f8f9fa&title_color=333333&text_color=666666&icon_color=333333" />
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=TsSilllver&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff" height="195" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TsSilllver&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TsSilllver&layout=compact&theme=default&hide_border=true&bg_color=f8f9fa&title_color=333333&text_color=666666" />
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TsSilllver&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0" height="195" />
   </picture>
 </div>
-
-<br>
-
-<div align="center">
-  <!-- Основная статистика (с параметром v=1 для обновления кэша) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TsSilllver&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&v=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TsSilllver&show_icons=true&theme=default&hide_border=true&bg_color=f8f9fa&title_color=333333&text_color=666666&icon_color=333333&v=1" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TsSilllver&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&v=1" />
-  </picture>
-
-  <br><br>
-
-  <!-- Топ языков -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TsSilllver&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0&v=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TsSilllver&layout=compact&theme=default&hide_border=true&bg_color=f8f9fa&title_color=333333&text_color=666666&v=1" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsSilllver&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=a0a0a0&v=1" />
-  </picture>
-</div>
-
----
 
 <div align="center">
   <a href="https://mail.ru/" target="_blank">
